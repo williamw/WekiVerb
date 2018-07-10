@@ -9,7 +9,9 @@ Simple MFCC extractor that can be used to differentiate between different vocal 
 
 Requires:
 
-* Zsa.descriptors - http://www.e--j.com/index.php/download-zsa/
+* Max 7 from Cycling 74
+* Zsa.descriptors from http://www.e--j.com/index.php/download-zsa/
+* Wekinator and Wekinator Input Helper from http://wekinator.org/
 * Any VST audio plugin, such as a reverb. Valhalla DSP's Freq Echo is fun to play with: https://valhalladsp.com/shop/delay/valhalla-freq-echo/
 
 To run, open the patch in Max 7:
